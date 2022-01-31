@@ -1,14 +1,14 @@
 {
-  "name": "⦁═Queen 👸 Alexa═⦁",
+  "name": "smokkyser",
   "version": "8.1.0",
-  "description": "QUEEN ALEXA is a POWERFULL Whatsapp userbot helping to improve your Whatsapp experience.",
+  "description": "smokkyis a POWERFULL Whatsapp userbot helping to improve your Whatsapp experience.",
   "main": "./ales/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/En-Cuzier/alexa.git"
+    "url": "git+....."
   },
   "keywords": [
     "whatsapp",
